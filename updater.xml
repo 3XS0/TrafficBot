@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Updater>
     <Title>A new version of Traffic Bot is available:</Title>
-    <Version>6.2</Version>
+    <Version>6.3</Version>
     <Info_Title>What's New:</Info_Title>
     <Info><![CDATA[version 6.2
 - adf.ly Module [Fixed]
