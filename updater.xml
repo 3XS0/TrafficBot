@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Updater>
     <Title>---=[ A New Version OF Traffic Bot is Available ]=---</Title>
-    <Version>6.22</Version>
+    <Version>6.30</Version>
     <Info_Title>What's New:</Info_Title>
     <Info><![CDATA[##########################################
 
 Diabolic Traffic Bot Full Edition
-Online version   : 6.22.0
-Cracked Released : 2018/06/06
+Online version   : 6.30.0
+Cracked Released : 2018/08/01
 Cracker          : Dr.FarFar
 
 What's New :
-- Character limit increased in vars text boxes [Fixed]
+- User Agent list [Updated]
+- Browser Engine [Updated]
+- IP Leak Test (Will check if the proxy leaks your ip before using) [New]
+- Proxies SSH Sources [New]
+- Minor Bugs [Fixed]
 
 ##########################################
 
