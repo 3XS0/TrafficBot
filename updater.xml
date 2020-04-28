@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Updater>
     <Title>---=[ A New Version OF Diabolic Traffic Bot is Available ]=---</Title>
-    <Version>7.06</Version>
+    <Version>7.07</Version>
     <Info_Title>What's New:</Info_Title>
     <Info><![CDATA[##########################################
 
 Diabolic Traffic Bot Full Edition
-Online version   : 7.06
-Cracked Released : 12/12/2019
+Online version   : 7.07
+Cracked Released : 04/04/2020
 Cracker          : Dr.FarFar
 
 What's New :
-- User Agent list [Updated]
-- Netstandard bug [Fixed]
+- Removed 'Killing Process...' From Logs
+- Chromium updated to version
+- Download public proxies but [Fixed]
 
 ##########################################
 
